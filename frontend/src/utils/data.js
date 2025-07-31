@@ -10,36 +10,36 @@ import {
 } from "react-icons/fa";
 
 export const webLinks = [
-  {
-    name: "Home",
-    path: "/",
-    icon: FaHome,
-  },
+  // {
+  //   name: "Home",
+  //   path: "/",
+  //   icon: FaHome,
+  // },
   {
     name: "Expenses",
     path: "/expenses",
     icon: FaMoneyBillWave,
   },
-  {
-    name: "Trips",
-    path: "/trips",
-    icon: FaRoute,
-  },
-  {
-    name: "Approvals",
-    path: "/approvals",
-    icon: FaCheckCircle,
-  },
-  {
-    name: "Settings",
-    path: "/settings",
-    icon: FaCog,
-  },
-  {
-    name: "Support",
-    path: "/support",
-    icon: FaQuestionCircle,
-  },
+  // {
+  //   name: "Trips",
+  //   path: "/trips",
+  //   icon: FaRoute,
+  // },
+  // {
+  //   name: "Approvals",
+  //   path: "/approvals",
+  //   icon: FaCheckCircle,
+  // },
+  // {
+  //   name: "Settings",
+  //   path: "/settings",
+  //   icon: FaCog,
+  // },
+  // {
+  //   name: "Support",
+  //   path: "/support",
+  //   icon: FaQuestionCircle,
+  // },
 ];
 
 export const quickActions = [
