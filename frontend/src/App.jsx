@@ -7,8 +7,8 @@ export default function App() {
   return (
     <div>
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/expenses" element={<Expence />} />
+{/*         <Route path="/" element={<Home />} /> */}
+        <Route path="/" element={<Expence />} />
       </Routes>
       <ToastContainer />
     </div>
