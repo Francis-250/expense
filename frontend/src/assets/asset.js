@@ -1,1 +1,1 @@
-export const baseUrl = "http://localhost:5000/api/expense";
+export const baseUrl = "https://expense-backend-g6t1.onrender.com/api/expense";
