@@ -2,7 +2,7 @@ import { useState } from "react";
 import Sidebar from "../components/ui/Sidebar";
 import Header from "../components/ui/Header";
 import Hero from "../components/layout/Hero";
-import ExpenceTable from "../components/layout/expenceTable";
+import ExpenceTable from "../components/layout/ExpenceTable";
 
 export default function Expence() {
   const [isOpen, setIsOpen] = useState(false);
