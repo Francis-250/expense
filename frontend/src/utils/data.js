@@ -17,7 +17,7 @@ export const webLinks = [
   // },
   {
     name: "Expenses",
-    path: "/expenses",
+    path: "/",
     icon: FaMoneyBillWave,
   },
   // {
